@@ -43,6 +43,7 @@ To run exe:
 ```./student exe```
 
 ## Example Output
+{content: }
 idk ah maybe this
 =========================================================
 ID       First Name   Last Name   GPA   Enrollment Date
