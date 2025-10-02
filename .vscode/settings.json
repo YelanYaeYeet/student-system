@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "student.h": "c"
+    },
+    "makefile.makefilePath": "makefile",
+    "makefile.makePath": "C:\\msys64\\usr\\bin\\make.exe",
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "c:\\Users\\rudolph\\Downloads\\studentmanagement",
+            "binaryPath": "c:\\Users\\rudolph\\Downloads\\studentmanagement\\studentmag",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "c:\\Users\\rudolph\\Downloads\\studentmanagement",
+            "binaryPath": "c:\\Users\\rudolph\\Downloads\\studentmanagement\\student",
+            "binaryArgs": []
+        }
+    ]
+}
