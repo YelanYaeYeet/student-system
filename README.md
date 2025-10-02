@@ -43,8 +43,7 @@ To run exe:
 ```./student exe```
 
 ## Example Output
-{content: }
-idk ah maybe this
+```
 =========================================================
 ID       First Name   Last Name   GPA   Enrollment Date
 =========================================================
@@ -52,5 +51,6 @@ ID       First Name   Last Name   GPA   Enrollment Date
 1002     Dogulas      Ong           2.80  2023-02-12
 1003     Clara        Lee           3.90  2023-03-05
 =========================================================
+```
 
 # student-system
